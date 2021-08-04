@@ -101,7 +101,7 @@ python eval.py
 
 ### Prepare the dataset 
 
-Please download the CelebA-HQ-Smile dataset into `./StarGANv2/data`
+Please download the [CelebA-HQ-Smile](https://uwprod-my.sharepoint.com/:u:/g/personal/mcai44_wisc_edu/EaAZBWih6i9Pm7rvnhQAY1wB9reOJohUKcFkfG_0VhdtBw?e=TN2yYL) dataset into `./StarGANv2/data`
 
 ### Train the model 
 To train the model in Tesla V100, please run:
