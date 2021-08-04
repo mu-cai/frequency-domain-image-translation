@@ -13,7 +13,7 @@ Our key idea is to decompose the image into low-frequency and high-frequency com
 Our training objective facilitates the preservation of frequency information in both pixel space and Fourier spectral space.
 
 
-<!-- ![model_architecture](demo_figs/structure.png) -->
+![model_architecture](demo_figs/structure.png)
 
 
 <!-- ## Usage -->
@@ -126,7 +126,9 @@ The pretrained model can be found [here](https://uwprod-my.sharepoint.com/:u:/g/
 
 MOS achieves state-of-the-art performance averaged on the 4 OOD datasets.
 
-![results](demo_figs/figure1.png)
+<img src="demo_figs/figure1.png" style="zoom:30%" align=center />
+
+<!-- ![results](demo_figs/figure1.png) -->
 
 ## Citation
 
