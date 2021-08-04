@@ -124,7 +124,7 @@ The pretrained model can be found [here](https://uwprod-my.sharepoint.com/:u:/g/
 
 ## Image Translation Results
 
-MOS achieves state-of-the-art performance averaged on the 4 OOD datasets.
+FDIT achieves state-of-the-art performance in several image translation and even GAN-inversion models.
 
 <img src="demo_figs/figure1.png" width = "50%" height = "50%" alt="demo" align=center />
 
