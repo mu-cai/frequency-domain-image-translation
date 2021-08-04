@@ -126,7 +126,7 @@ The pretrained model can be found [here](https://uwprod-my.sharepoint.com/:u:/g/
 
 MOS achieves state-of-the-art performance averaged on the 4 OOD datasets.
 
-<img src="demo_figs/figure1.png" style="zoom:30%" align=center />
+<img src="demo_figs/figure1.png" width = "50%" height = "50%" alt="demo" align=center />
 
 <!-- ![results](demo_figs/figure1.png) -->
 
