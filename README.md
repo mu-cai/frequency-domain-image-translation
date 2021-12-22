@@ -23,8 +23,8 @@ Our training objective facilitates the preservation of frequency information in 
 ### Dataset Preparation
 
 You can download the following datasets:
-- Flicker Mountain ([training set](https://drive.google.com/file/d/19myZh-p9rTDQ8VxBkUAPmDpl1ZSyaqJH/view?usp=sharing), [validation set](https://uwprod-my.sharepoint.com/:f:/g/personal/mcai44_wisc_edu/EqLfFpvZ5UhElv2y0yi0rSMBLjlbqkVc5a99XNW0ujpYtA?e=KelIIh))
-- Flicker Waterfall ([training set](https://drive.google.com/file/d/1ldqWrIcMtTs1qXX5uiJRLUpWNTNFkDes/view?usp=sharing), [validation set](https://uwprod-my.sharepoint.com/:f:/g/personal/mcai44_wisc_edu/EpiEonB5fCpNtaY_V4Fl2iUBzMcWgvk5YoCGrW7mLEHTfA?e=Jx0GVa))
+- Flicker Mountain ([training set](https://drive.google.com/file/d/19myZh-p9rTDQ8VxBkUAPmDpl1ZSyaqJH/view?usp=sharing), [validation set](https://drive.google.com/file/d/1oCQESEWdgcEP0D2d1t7wJ19EfeVp8pAC/view?usp=sharing))
+- Flicker Waterfall ([training set](https://drive.google.com/file/d/1ldqWrIcMtTs1qXX5uiJRLUpWNTNFkDes/view?usp=sharing), [validation set](https://drive.google.com/file/d/1GPriWpQnLXTGPWjiCw1d8TQ1BwWM1wA9/view?usp=sharing))
 - [CelebA-HQ](https://www.dropbox.com/s/f7pvjij2xlpff59/celeba_hq.zip?dl=0)
 - [LSUN Church](https://github.com/fyu/lsun)
 - [LSUN Bedroom](https://github.com/fyu/lsun)
@@ -57,7 +57,7 @@ To evaluate the image quality using Fréchet Inception Distance (FID), please ru
 ```
 bash eval.sh
 ```
-The pretrained model is provided [here](https://pages.cs.wisc.edu/~mucai/fdit_swapae_ckpt/).
+The pretrained model is provided [here](https://drive.google.com/file/d/1wTSD7XV8oQKkcjYdIbbTI_m0SussAhp5/view?usp=sharing).
 ##  2. Image2StyleGAN
 
 ### Prepare the dataset 
@@ -101,7 +101,7 @@ python eval.py
 
 ### Prepare the dataset 
 
-Please download the [CelebA-HQ-Smile](https://uwprod-my.sharepoint.com/:u:/g/personal/mcai44_wisc_edu/EaAZBWih6i9Pm7rvnhQAY1wB9reOJohUKcFkfG_0VhdtBw?e=TN2yYL) dataset into `./StarGANv2/data`
+Please download the [CelebA-HQ-Smile](https://drive.google.com/file/d/1k5RnU_O9bP0RGM_TKWN5jQoP_pGXghSN/view?usp=sharing) dataset into `./StarGANv2/data`
 
 ### Train the model 
 To train the model in Tesla V100, please run:
@@ -119,7 +119,7 @@ bash eval.sh
 ```
 
 ### Pretrained Model
-The pretrained model can be found [here](https://uwprod-my.sharepoint.com/:u:/g/personal/mcai44_wisc_edu/Ef7t8JJQUhpAiLMZZLL_UxYBCoCCPOU2ijp2xy5hKk8SeA?e=s5SQFw).
+The pretrained model can be found [here](https://drive.google.com/file/d/1gexU8q01yyNbJctIDkmwjrSIQ2HpMZ_S/view?usp=sharing).
 
 
 ## Image Translation Results
