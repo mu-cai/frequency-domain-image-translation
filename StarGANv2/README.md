@@ -1,10 +1,8 @@
-<<<<<<< Updated upstream
 
 ## StarGAN v2 - Official PyTorch Implementation
 
 <p align="left"><img width="95%" src="assets/teaser.jpg" /></p>
 
-> **code by Mu Cai ** 
 
 > **StarGAN v2: Diverse Image Synthesis for Multiple Domains**<br>
 > [Yunjey Choi](https://github.com/yunjey)\*, [Youngjung Uh](https://github.com/youngjung)\*, [Jaejun Yoo](http://jaejunyoo.blogspot.com/search/label/kr)\*, [Jung-Woo Ha](https://www.facebook.com/jungwoo.ha.921)<br>
