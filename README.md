@@ -73,8 +73,9 @@ unzip source_image.zip
 To get the pretrained weights in StyleGAN, please run:
 ```
 cd Image2StlyleGAN/weight_files/pytorch
-wget https://pages.cs.wisc.edu/~mucai/fdit/karras2019stylegan-ffhq-1024x1024.pt
 ```
+
+Download the weight file through this [link](https://drive.google.com/file/d/1wrhTujjkqlviE8ia5DaBHEsFeEonsbNp/view?usp=sharing): 
 
 ### Run GAN-inversion model:
 #### Single image inversion
